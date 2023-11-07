@@ -1,0 +1,11 @@
+.logo{
+
+    border-radius: 200px;
+    height: 90px;
+    width: 200px;
+
+}
+
+.botao{
+    background:linear-gradient(120deg,rgb(253, 0, 0))100%rgb(12, 185, 49)0% ;
+}
